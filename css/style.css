@@ -1,0 +1,13 @@
+nav{
+    background-color: transparent;
+}
+
+.navbar-nav{
+    margin-left: 1200px;
+}
+.bg-image{
+    background-image:url(/img/aidan-hancock-8RU4OuA6Yug-unsplash.png);
+    /* height: 2500px; */
+    width:fit-content;
+    background-repeat: no-repeat;
+}
