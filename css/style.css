@@ -3,11 +3,21 @@ nav{
 }
 
 .navbar-nav{
-    margin-left: 1200px;
+    margin-left: 1100px;
 }
 .bg-image{
     background-image:url(/img/aidan-hancock-8RU4OuA6Yug-unsplash.png);
-    /* height: 2500px; */
-    width:fit-content;
+    height: 100vh;
+    width:100%;
     background-repeat: no-repeat;
+    
+}
+
+.about{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    margin-top: 200px;
 }
